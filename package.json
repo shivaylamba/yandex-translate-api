@@ -1,0 +1,29 @@
+{
+  "name": "yandex-translate-api",
+  "version": "1.0.0",
+  "description": "demo of yandex translation api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consolidate": "^0.15.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.1.2",
+    "mongodb": "*",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaylamba/yandex-translate-api.git"
+  },
+  "author": "Shivay Lamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaylamba/yandex-translate-api/issues"
+  },
+  "homepage": "https://github.com/shivaylamba/yandex-translate-api#readme"
+}
